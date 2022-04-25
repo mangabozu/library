@@ -1,8 +1,9 @@
 
 /**
- * タブクラス
+ * タブを生成するクラス
+ * タブにしたい要素のclassに「tab」を付けることで使用可能
  */
-class Tab {
+ export class Tab {
     /**
      * constructor
      *
